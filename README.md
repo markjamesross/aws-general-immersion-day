@@ -4,7 +4,7 @@ Repo of resources created by Terraform to support people doing the AWS General I
 
 Follow the Immersion Day [here](https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/preparation-guide) and enable the relevant Terraform resources as you go through the day.
 
-Read my write up on experiencing the Networking Immersion Day [here]().
+Read my write up on experiencing the Networking Immersion Day [here](https://markrosscloud.medium.com/atos-aws-coaching-hub-kicks-off-2022-series-with-a-aws-general-immersion-day-710dde06df4b).
 
 - download repo
 - authenticate to AWS
